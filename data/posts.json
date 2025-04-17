@@ -1,0 +1,8 @@
+[
+    {
+        "title": "Using TUIs for running bioinformatics pipelines on a cluster",
+        "body": "Running lots and lots of commands on clusters can be hard to manage for many reasons. For example, if you're running a command 100 times in a loop over your files, it will be keep track of inputs and outputs of your commands. Besides, documenting all the inputs and outputs should be done manually which is a pain. I created a Python package based on an amazing Python library called Textual to address these issues and make it easier to run cli commands at a large scale on remote servers. If you are interested in leaning more about it, check out the GitHub repository: <a href='https://github.com/ParsaGhadermazi/pipit'>pipit</a>",
+        "image":"img/bioplumber.gif",
+        "alt_text":"A gif showing a TUI interface for running bioinformatics pipelines"
+    }
+]
