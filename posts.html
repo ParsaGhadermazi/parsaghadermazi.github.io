@@ -25,14 +25,34 @@
     <div class="container mt-5">
     <div class="card">
     <div class="card-header">
-      <h4>Using TUIs for running bioinformatics pipelines on a cluster</h4>
+      <h4>Comprehensive bioinformatics pipeline</h4>
     </div>
     <div class="card-body">
       <div class="row">
         <!-- Text Column -->
         <div class="col-md-6">
           <p class="lead">
-          Running lots and lots of commands on clusters can be hard to manage for many reasons. For example, if you're running a command 100 times in a loop over your files, it will be keep track of inputs and outputs of your commands. Besides, documenting all the inputs and outputs should be done manually which is a pain. I created a Python package based on an amazing Python library called Textual to address these issues and make it easier to run cli commands at a large scale on remote servers. If you are interested in leaning more about it, check out the GitHub repository: <a href='https://github.com/ParsaGhadermazi/pipit'>pipit</a>
+          Our repository for bioinformatics pipelines contains a comprehensive set of workflows developed in Nextflow for common practices in bioinformatics with a focus on microbiome data analysis. This includes reference-based and assembly-based metagenomics, metatranscriptomics, RNA-seq, strain-level metagenomics and  so on. All processes are containerized and can be run on any system with Docker or Apptainer installed. Check out the GitHub repository for this project: <a href='https://github.com/OlmLab/bioinformatics_pipelines'>Olm Lab's bioinformatics pipelines</a>
+          </p>
+        </div>
+        <!-- Image Column -->
+        <div class="col-md-6">
+          <img src="img/pipeline.png" alt="Pipeline for the OLM lab" class="img-fluid rounded w-100">
+        </div>
+      </div>
+    </div>
+    </div>
+    </div><div class="container mt-5">
+    <div class="card">
+    <div class="card-header">
+      <h4>Using TUIs for efficiently running large numbers of commands</h4>
+    </div>
+    <div class="card-body">
+      <div class="row">
+        <!-- Text Column -->
+        <div class="col-md-6">
+          <p class="lead">
+          Running lots and lots of commands on clusters or locally can be hard to manage for many reasons. For example, if you're running a command 100 times in a loop over your files, it will be hard to keep track of inputs and outputs of your commands. Besides, documenting all the inputs and outputs should be done manually which is a pain. I created a Python package based on an amazing Python library called Textual to address these issues and make it easier to run cli commands at a large scale on remote servers. If you are interested in leaning more about it, check out the GitHub repository: <a href='https://github.com/ParsaGhadermazi/pipit'>pipit</a>
           </p>
         </div>
         <!-- Image Column -->
