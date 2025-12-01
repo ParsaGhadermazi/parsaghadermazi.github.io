@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1882 2550" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <path d="M888.735,244.311L978.677,244.311L918.091,349.521L985.287,349.521L841.201,473.545L888.735,373.222L829.07,373.222L888.735,244.311Z" style="fill:rgb(241,186,0);stroke:white;stroke-width:2.08px;"/>
+    <g>
+        <g>
+            <rect x="0" y="286.662" width="110.674" height="133.704" style="fill:rgb(184,56,53);"/>
+            <g transform="matrix(1,0,0,1,25.401,385.641)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:89.765px;fill:white;">A</text>
+            </g>
+            <rect x="134.891" y="286.662" width="110.674" height="133.704" style="fill:rgb(96,159,93);"/>
+            <g transform="matrix(1,0,0,1,160.292,385.641)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:89.765px;fill:white;">T</text>
+            </g>
+            <rect x="269.694" y="286.662" width="110.674" height="133.704" style="fill:rgb(83,136,197);"/>
+            <g transform="matrix(1,0,0,1,295.095,385.641)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:89.765px;fill:white;">C</text>
+            </g>
+            <rect x="405.196" y="286.662" width="110.674" height="133.704" style="fill:rgb(161,161,100);"/>
+            <g transform="matrix(1,0,0,1,430.596,385.641)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:89.765px;fill:white;">G</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,9.034,585.704)">
+            <text x="0px" y="0px" style="font-family:'Charter-Roman', 'Charter', serif;font-size:166.667px;fill:rgb(115,115,115);">0 1 0 4</text>
+        </g>
+        <g transform="matrix(1,0,0,1,9.034,749.901)">
+            <text x="0px" y="0px" style="font-family:'Charter-Roman', 'Charter', serif;font-size:166.667px;fill:rgb(115,115,115);">0 3 0 0</text>
+        </g>
+        <g transform="matrix(1,0,0,1,9.034,907.574)">
+            <text x="0px" y="0px" style="font-family:'Charter-Roman', 'Charter', serif;font-size:166.667px;fill:rgb(115,115,115);">0 0 5 0</text>
+        </g>
+        <g transform="matrix(1,0,0,1,9.034,1069.15)">
+            <text x="0px" y="0px" style="font-family:'Charter-Roman', 'Charter', serif;font-size:166.667px;fill:rgb(115,115,115);">0 2 0 4</text>
+        </g>
+        <g transform="matrix(1,0,0,1,9.034,1233.34)">
+            <text x="0px" y="0px" style="font-family:'Charter-Roman', 'Charter', serif;font-size:166.667px;fill:rgb(115,115,115);">0 5 0 0</text>
+        </g>
+        <g transform="matrix(1,0,0,1,9.034,1391.02)">
+            <text x="0px" y="0px" style="font-family:'Charter-Roman', 'Charter', serif;font-size:166.667px;fill:rgb(115,115,115);">0 0 5 0</text>
+        </g>
+        <g transform="matrix(0.955117,0,0,1,64.0757,1548.76)">
+            <text x="0px" y="0px" style="font-family:'Charter-Roman', 'Charter', serif;font-size:158.333px;fill:rgb(115,115,115);">0 8 0 1</text>
+        </g>
+        <g transform="matrix(0.955117,0,0,1,104.042,1702.05)">
+            <text x="0px" y="0px" style="font-family:'Charter-Roman', 'Charter', serif;font-size:141.667px;fill:rgb(115,115,115);">0 1 0 9</text>
+        </g>
+        <g transform="matrix(0.955117,0,0,1,152.023,1845.13)">
+            <text x="0px" y="0px" style="font-family:'Charter-Roman', 'Charter', serif;font-size:125px;fill:rgb(115,115,115);fill-opacity:0.9;">4 1 0 0</text>
+        </g>
+        <g transform="matrix(0.955117,0,0,1,267.792,2081.56)">
+            <text x="0px" y="0px" style="font-family:'Charter-Roman', 'Charter', serif;font-size:83.333px;fill:rgb(115,115,115);fill-opacity:0.8;">0 1 5 1</text>
+        </g>
+        <g transform="matrix(0.955117,0,0,1,220.658,1975.22)">
+            <text x="0px" y="0px" style="font-family:'Charter-Roman', 'Charter', serif;font-size:100px;fill:rgb(115,115,115);fill-opacity:0.85;">0 1 3 1</text>
+        </g>
+        <g transform="matrix(0.955117,0,0,1,267.792,2176.84)">
+            <text x="0px" y="0px" style="font-family:'Charter-Roman', 'Charter', serif;font-size:83.333px;fill:rgb(115,115,115);fill-opacity:0.75;">0 7 0 0</text>
+        </g>
+        <g transform="matrix(0.955117,0,0,1,267.792,2270.05)">
+            <text x="0px" y="0px" style="font-family:'Charter-Roman', 'Charter', serif;font-size:83.333px;fill:rgb(115,115,115);fill-opacity:0.46;">0 1 0 1</text>
+        </g>
+        <g transform="matrix(0.955117,0,0,1,267.792,2365.33)">
+            <text x="0px" y="0px" style="font-family:'Charter-Roman', 'Charter', serif;font-size:83.333px;fill:rgb(115,115,115);fill-opacity:0.39;">8 1 0 1</text>
+        </g>
+        <g transform="matrix(0.955117,0,0,1,267.792,2453.7)">
+            <text x="0px" y="0px" style="font-family:'Charter-Roman', 'Charter', serif;font-size:83.333px;fill:rgb(115,115,115);fill-opacity:0.33;">0 0 6 2</text>
+        </g>
+        <g transform="matrix(0.955117,0,0,1,267.792,2548.98)">
+            <text x="0px" y="0px" style="font-family:'Charter-Roman', 'Charter', serif;font-size:83.333px;fill:rgb(115,115,115);fill-opacity:0.25;">0 1 3 2</text>
+        </g>
+    </g>
+    <g>
+        <g>
+            <rect x="1298.49" y="284.627" width="110.674" height="133.704" style="fill:rgb(184,56,53);"/>
+            <g transform="matrix(1,0,0,1,1323.89,383.607)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:89.765px;fill:white;">A</text>
+            </g>
+            <rect x="1433.38" y="284.627" width="110.674" height="133.704" style="fill:rgb(96,159,93);"/>
+            <g transform="matrix(1,0,0,1,1458.78,383.607)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:89.765px;fill:white;">T</text>
+            </g>
+            <rect x="1568.18" y="284.627" width="110.674" height="133.704" style="fill:rgb(83,136,197);"/>
+            <g transform="matrix(1,0,0,1,1593.58,383.607)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:89.765px;fill:white;">C</text>
+            </g>
+            <rect x="1703.68" y="284.627" width="110.674" height="133.704" style="fill:rgb(161,161,100);"/>
+            <g transform="matrix(1,0,0,1,1729.08,383.607)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:89.765px;fill:white;">G</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,1307.52,583.67)">
+            <text x="0px" y="0px" style="font-family:'Charter-Roman', 'Charter', serif;font-size:166.667px;fill:rgb(115,115,115);">0 2 0 2</text>
+        </g>
+        <g transform="matrix(1,0,0,1,1307.52,747.866)">
+            <text x="0px" y="0px" style="font-family:'Charter-Roman', 'Charter', serif;font-size:166.667px;fill:rgb(115,115,115);">0 0 6 0</text>
+        </g>
+        <g transform="matrix(1,0,0,1,1307.52,905.539)">
+            <text x="0px" y="0px" style="font-family:'Charter-Roman', 'Charter', serif;font-size:166.667px;fill:rgb(115,115,115);">0 0 6 0</text>
+        </g>
+        <g transform="matrix(1,0,0,1,1307.52,1067.11)">
+            <text x="0px" y="0px" style="font-family:'Charter-Roman', 'Charter', serif;font-size:166.667px;fill:rgb(115,115,115);">0 5 0 0</text>
+        </g>
+        <g transform="matrix(1,0,0,1,1307.52,1231.31)">
+            <text x="0px" y="0px" style="font-family:'Charter-Roman', 'Charter', serif;font-size:166.667px;fill:rgb(115,115,115);">0 8 0 0</text>
+        </g>
+        <g transform="matrix(1,0,0,1,1307.52,1388.98)">
+            <text x="0px" y="0px" style="font-family:'Charter-Roman', 'Charter', serif;font-size:166.667px;fill:rgb(115,115,115);">0 0 2 1</text>
+        </g>
+        <g transform="matrix(0.955117,0,0,1,1308.15,1544.67)">
+            <text x="0px" y="0px" style="font-family:'Charter-Roman', 'Charter', serif;font-size:158.333px;fill:rgb(115,115,115);">0 5 0 1</text>
+        </g>
+        <g transform="matrix(0.955117,0,0,1,1308.81,1703.02)">
+            <text x="0px" y="0px" style="font-family:'Charter-Roman', 'Charter', serif;font-size:141.667px;fill:rgb(115,115,115);">0 0 7 0</text>
+        </g>
+        <g transform="matrix(0.955117,0,0,1,1311.15,1853.14)">
+            <text x="0px" y="0px" style="font-family:'Charter-Roman', 'Charter', serif;font-size:125px;fill:rgb(115,115,115);fill-opacity:0.9;">5 0 0 0</text>
+        </g>
+        <g transform="matrix(0.955117,0,0,1,1311.09,2081.56)">
+            <text x="0px" y="0px" style="font-family:'Charter-Roman', 'Charter', serif;font-size:83.333px;fill:rgb(115,115,115);fill-opacity:0.8;">0 1 3 0</text>
+        </g>
+        <g transform="matrix(0.955117,0,0,1,1311.09,2176.84)">
+            <text x="0px" y="0px" style="font-family:'Charter-Roman', 'Charter', serif;font-size:83.333px;fill:rgb(115,115,115);fill-opacity:0.75;">1 1 0 1</text>
+        </g>
+        <g transform="matrix(0.955117,0,0,1,1311.09,2270.05)">
+            <text x="0px" y="0px" style="font-family:'Charter-Roman', 'Charter', serif;font-size:83.333px;fill:rgb(115,115,115);fill-opacity:0.46;">1 4 0 0</text>
+        </g>
+        <g transform="matrix(0.955117,0,0,1,1311.09,2365.33)">
+            <text x="0px" y="0px" style="font-family:'Charter-Roman', 'Charter', serif;font-size:83.333px;fill:rgb(115,115,115);fill-opacity:0.39;">7 2 0 0</text>
+        </g>
+        <g transform="matrix(0.955117,0,0,1,1311.09,2453.7)">
+            <text x="0px" y="0px" style="font-family:'Charter-Roman', 'Charter', serif;font-size:83.333px;fill:rgb(115,115,115);fill-opacity:0.33;">0 0 0 0</text>
+        </g>
+        <g transform="matrix(0.955117,0,0,1,1311.09,2548.98)">
+            <text x="0px" y="0px" style="font-family:'Charter-Roman', 'Charter', serif;font-size:83.333px;fill:rgb(115,115,115);fill-opacity:0.25;">2 0 2 0</text>
+        </g>
+        <g transform="matrix(0.955117,0,0,1,1310.44,1974.88)">
+            <text x="0px" y="0px" style="font-family:'Charter-Roman', 'Charter', serif;font-size:100px;fill:rgb(115,115,115);fill-opacity:0.85;">0 0 6 1</text>
+        </g>
+    </g>
+    <g>
+        <rect x="866.959" y="1259.05" width="185.424" height="40.073" style="fill:rgb(100,99,99);stroke:white;stroke-width:2.08px;"/>
+        <rect x="739.161" y="1208.5" width="173.25" height="39.342" style="fill:rgb(100,99,99);stroke:white;stroke-width:2.08px;"/>
+        <rect x="866.959" y="1419.06" width="185.424" height="40.073" style="fill:rgb(100,99,99);stroke:white;stroke-width:2.08px;"/>
+        <rect x="739.161" y="1368.51" width="173.25" height="39.342" style="fill:rgb(100,99,99);stroke:white;stroke-width:2.08px;"/>
+        <rect x="866.959" y="1569.94" width="185.424" height="40.073" style="fill:rgb(100,99,99);stroke:white;stroke-width:2.08px;"/>
+        <rect x="739.161" y="1519.39" width="173.25" height="39.342" style="fill:rgb(100,99,99);stroke:white;stroke-width:2.08px;"/>
+        <rect x="866.959" y="1102.33" width="185.424" height="40.073" style="fill:rgb(100,99,99);stroke:white;stroke-width:2.08px;"/>
+        <rect x="739.161" y="1051.79" width="173.25" height="39.342" style="fill:rgb(100,99,99);stroke:white;stroke-width:2.08px;"/>
+        <rect x="866.959" y="936.185" width="185.424" height="40.073" style="fill:rgb(100,99,99);stroke:white;stroke-width:2.08px;"/>
+        <path d="M1077.81,743.01L1060.72,779.258L924.235,714.916L941.322,678.669L1077.81,743.01Z" style="fill:rgb(100,99,99);stroke:white;stroke-width:2.08px;"/>
+        <path d="M737.381,743.01L754.468,779.258L890.956,714.916L873.869,678.669L737.381,743.01Z" style="fill:rgb(100,99,99);stroke:white;stroke-width:2.08px;"/>
+        <path d="M1105.15,612.315L1085.81,647.411L953.657,574.574L973.001,539.478L1105.15,612.315Z" style="fill:rgb(100,99,99);stroke:white;stroke-width:2.08px;"/>
+        <path d="M715.466,612.315L734.809,647.411L866.959,574.574L847.615,539.478L715.466,612.315Z" style="fill:rgb(100,99,99);stroke:white;stroke-width:2.08px;"/>
+        <path d="M1126.56,472.478L1104.72,506.075L978.209,423.829L1000.05,390.231L1126.56,472.478Z" style="fill:rgb(100,99,99);stroke:white;stroke-width:2.08px;"/>
+        <path d="M687.799,472.478L709.642,506.075L836.15,423.829L814.307,390.231L687.799,472.478Z" style="fill:rgb(100,99,99);stroke:white;stroke-width:2.08px;"/>
+        <rect x="739.161" y="885.638" width="173.25" height="39.342" style="fill:rgb(100,99,99);stroke:white;stroke-width:2.08px;"/>
+        <path d="M995.746,1028.58L829.076,1028.58L824.186,914.055C824.186,886.651 814.168,871.527 814.168,853.345C814.168,803.226 855.627,762.166 907.94,759.028C908.745,758.9 909.577,758.835 910.435,758.835C911.095,758.835 911.754,758.841 912.411,758.853C913.068,758.841 913.726,758.835 914.387,758.835C915.245,758.835 916.076,758.9 916.882,759.028C969.194,762.166 1010.65,803.226 1010.65,853.345C1010.65,871.527 1000.64,886.651 1000.64,914.055L995.746,1028.58Z" style="fill:rgb(100,100,100);"/>
+        <path d="M834.066,1161.91L862.362,937.612C855.615,904.699 880.256,872.199 912.44,872.161L912.52,872.161C944.703,872.214 969.329,904.726 962.566,937.636L990.756,1161.95C990.756,1161.95 938.526,1191.62 912.411,1191.61C886.296,1191.6 834.066,1161.91 834.066,1161.91ZM912.414,1148.47C959.708,1148.49 970.19,1077.34 929.227,1060.16C901.634,1048.59 874.727,1068.99 870.148,1093.24C864.874,1121.17 886.53,1148.47 912.414,1148.47ZM912.464,937.989C941.359,937.996 944.427,892.274 917.36,886.929C902.264,883.948 888.418,896.547 888.223,912.191C888.063,924.931 899.017,937.986 912.464,937.989Z" style="fill:rgb(181,181,181);stroke:white;stroke-width:2.08px;"/>
+        <rect x="893.88" y="746.235" width="37.062" height="173.796" style="fill:rgb(100,99,99);stroke:white;stroke-width:2.08px;"/>
+        <rect x="867.047" y="1721.84" width="158.323" height="32.86" style="fill:rgb(100,99,99);fill-opacity:0.9;stroke:white;stroke-width:2.08px;"/>
+        <rect x="757.927" y="1680.39" width="147.928" height="32.259" style="fill:rgb(100,99,99);fill-opacity:0.9;stroke:white;stroke-width:2.08px;"/>
+        <rect x="870.499" y="1864.12" width="136.103" height="25.052" style="fill:rgb(100,99,99);fill-opacity:0.85;stroke:white;stroke-width:2.08px;"/>
+        <rect x="776.694" y="1832.51" width="127.168" height="24.595" style="fill:rgb(100,99,99);fill-opacity:0.85;stroke:white;stroke-width:2.08px;"/>
+        <rect x="866.508" y="1969.18" width="102.562" height="21.317" style="fill:rgb(100,99,99);fill-opacity:0.8;stroke:white;stroke-width:2.08px;"/>
+        <rect x="795.82" y="1942.3" width="95.828" height="20.927" style="fill:rgb(100,99,99);fill-opacity:0.8;stroke:white;stroke-width:2.08px;"/>
+        <rect x="866.508" y="2058.17" width="102.562" height="21.317" style="fill:rgb(100,99,99);fill-opacity:0.75;stroke:white;stroke-width:2.08px;"/>
+        <rect x="795.82" y="2031.28" width="95.828" height="20.927" style="fill:rgb(100,99,99);fill-opacity:0.75;stroke:white;stroke-width:2.08px;"/>
+        <g id="_Image1_" serif:id="_Image1" transform="matrix(1,0,0,1,865.466,2151.8)">
+            <use xlink:href="#_Image1" x="0" y="0" width="105px" height="24px"/>
+        </g>
+        <g id="_Image2_" serif:id="_Image2" transform="matrix(1,0,0,1,794.778,2124.91)">
+            <use xlink:href="#_Image2" x="0" y="0" width="98px" height="24px"/>
+        </g>
+        <g id="_Image3_" serif:id="_Image3" transform="matrix(1,0,0,1,865.466,2243.81)">
+            <use xlink:href="#_Image3" x="0" y="0" width="105px" height="24px"/>
+        </g>
+        <g id="_Image4_" serif:id="_Image4" transform="matrix(1,0,0,1,794.778,2216.92)">
+            <use xlink:href="#_Image4" x="0" y="0" width="98px" height="24px"/>
+        </g>
+        <g id="_Image5_" serif:id="_Image5" transform="matrix(1,0,0,1,865.715,2335.09)">
+            <use xlink:href="#_Image5" x="0" y="0" width="105px" height="24px"/>
+        </g>
+        <g id="_Image6_" serif:id="_Image6" transform="matrix(1,0,0,1,795.027,2308.2)">
+            <use xlink:href="#_Image6" x="0" y="0" width="98px" height="24px"/>
+        </g>
+        <g id="_Image7_" serif:id="_Image7" transform="matrix(1,0,0,1,865.715,2424.07)">
+            <use xlink:href="#_Image7" x="0" y="0" width="105px" height="24px"/>
+        </g>
+        <g id="_Image8_" serif:id="_Image8" transform="matrix(1,0,0,1,795.027,2397.18)">
+            <use xlink:href="#_Image8" x="0" y="0" width="98px" height="24px"/>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,511.28,202.612)">
+        <text x="0px" y="0px" style="font-family:'Helvetica';font-size:200px;fill:rgb(115,115,115);">ZipStrain</text>
+    </g>
+    <defs>
+        <image id="_Image1" width="105px" height="24px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGkAAAAYCAYAAAD5/NNeAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAzklEQVRoge3RMQrCQBRF0RuJjYUQUtmIKW1tbNPqllxAXIArcQd2Fu4hO8igXQjDt1IsAlqZfHinmik+PLiJmR2ALTJGHXCaoEBjNgU26et3rKpbCKEbcJB82O33i7IsVwDvSCGErmkaRRqJtm3j6z0Zcoj8RpEcUCQHFMkBRXJAkRxQJAcUyQFFckCRHFAkBxTJAUVyQJEcUCQHFMkBRXIgMbMzQF3XIcYYvx3If2RZNsvzfAZcUuABzIuiyAbeJf3uiZktgfXQS6RXB1yfoPgtMa/YScwAAAAASUVORK5CYII="/>
+        <image id="_Image2" width="98px" height="24px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGIAAAAYCAYAAAABHCipAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAtklEQVRoge3ZsQ3CMBSE4XNEGkTkwhN4AkpWIjMwQJiHjhUiZrGVOhKPKs4GvJNyX+Xy5L9w4WBmDwA3iKd3MLOX9wrBctpOz2n61FpXzzVHk3M+38fxCgAtRK11LaUoxB+llNp9d55DZKcQJBSChEKQUAgSCkFCIUgoBAmFIKEQJBSChEKQUAgSCkFCIUgoBIn2MRRj7M3Mc8vhXIah3876s+awdABm7xWCOQCAmemtcBRC+P4Ahr8niqNlI1MAAAAASUVORK5CYII="/>
+        <image id="_Image3" width="105px" height="24px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGkAAAAYCAYAAAD5/NNeAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAzklEQVRoge3RMQrCUBBF0RvRQlAIsVQIWNhaWGcDuht3oWuwdSti4yLSRz5oFUIcC1EsLOx+Bt6pZroHNzGzLbBCuqgBDj0UqMsGwLL//va73TmE0EQcJF/Wm820KIo5wCdSCKGpqkqROqKu6/Z992IOkf8okgOK5IAiOaBIDiiSA4rkgCI5oEgOKJIDiuSAIjmgSA4okgOK5IAiOaBIDiRmdgQoy/Latu0j9iB5SdN0mGXZCDj1gTswzvN8EnmX/HZLzGwGLGIvkZ8a4PIExBItFLtXQUYAAAAASUVORK5CYII="/>
+        <image id="_Image4" width="98px" height="24px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGIAAAAYCAYAAAABHCipAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAuklEQVRoge3ZsQ3CMBSE4XMEFUFEIguQEYCZPABbhD1Yg5oqk1iyRBvkRxWzAe+k3Fe5PPkvXDiY2Q3ABeLp2UARGFw3y+k+jq+c8+y5Zm1Ow7CLMZ4BoIbIOc8pJYX4o2Pff5Zz4zlEfhSChEKQUAgSCkFCIUgoBAmFIKEQJBSChEKQUAgSCkFCIUgoBAmFIFE/hg5dty2leG5ZnX3b1vsPZvbwHCMAgHcDYPJeIZgCAJiZ3gpHIYTyBex0I0D+A6JYAAAAAElFTkSuQmCC"/>
+        <image id="_Image5" width="105px" height="24px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGkAAAAYCAYAAAD5/NNeAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAz0lEQVRoge3RIQ7CUBBF0VtSRRBfoAhVSASa7qEbYS2wADR7QeBYA7jyFQigLYMgJAgE7jPJO2rGveRmZrYAZsg/aoFNDwX6Zzkwzd/farncxhjvCQfJh6qqinlZTuBVCoAY472u6ybdLPl0vd26991LOUR+o0gOKJIDiuSAIjmgSA4okgOK5IAiOaBIDiiSA4rkgCI5oEgOKJIDiuSAIjmQmdka4Hg4nNque6QeJC8hhH4IYQDscuACDMZFMUy8S747Z2Y2Aiapl8hXDbB/AhOMLO7L2RE0AAAAAElFTkSuQmCC"/>
+        <image id="_Image6" width="98px" height="24px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGIAAAAYCAYAAAABHCipAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAuklEQVRoge3ZsQ3CMBSE4XsWooJIKbJBeiiYiHTMEgZgHiQGyBqRK7og+VFhRngn+b7K5cl/4cLm7jcAJ0ikZ4IiMDjvfqf7PL9yzlvkmtaM43i4TtMFAGqInPO2rusnblZ7hmGo950ih8ifQpBQCBIKQUIhSCgECYUgoRAkFIKEQpBQCBIKQUIhSCgECYUgoRAk6sdQ3/f7UkrkluYcu67ev7n7I3KMAADeCcASvUKwGAC4u96KQGZWvvixIzDy+jIfAAAAAElFTkSuQmCC"/>
+        <image id="_Image7" width="105px" height="24px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGkAAAAYCAYAAAD5/NNeAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAzklEQVRoge3RMQrCUBBF0Ru1UcEPgo0BsRDcge4itbtxCdmL27C0cQMpAtFOIWgcC1EsLOx+Bt6pZroHNzGzDbBE2qgBdh0UqM26wKL3/vI835+q6hZxkHzJsmy6Wq/nAJ9Ip6q6lWWpSC1R13Xzvjsxh8h/FMkBRXJAkRxQJAcUyQFFckCRHFAkBxTJAUVyQJEcUCQHFMkBRXJAkRxQJAcSM9sCFEVxfjTNI/YgeRmF0A8hDIFDD7gCgzRNx5F3yW+XxMwmwCz2EvnpDhyf6agstk3t2JkAAAAASUVORK5CYII="/>
+        <image id="_Image8" width="98px" height="24px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGIAAAAYCAYAAAABHCipAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAuklEQVRoge3ZsQ2DQBBE0VlEZMkEF9ABskOX48x04hIozHIDdHDSETrCYh0BHXhHYl604eh+eObudwAXSKR3BUVgcK3XaxiG11TKHLnmaLquOz36/gYAW4iplDnnrBB/1Lbtd72ryCGyUwgSCkFCIUgoBAmFIKEQJBSChEKQUAgSCkFCIUgoBAmFIKEQJBSCxPYxlFKql2XxyDFHc26a7f3N3Z+RYwQA8KkAjNErBKMBgLtb9JIjMzP/AeVWJAUJxTkyAAAAAElFTkSuQmCC"/>
+    </defs>
+</svg>

@@ -1,5 +1,11 @@
 [
     {
+        "title": "ZipStrain",
+        "body": "ZipStrain is a tool designed for efficient and scalable strain-level analysis of metagenomic data. It can profile and compare metagenomics samples at nucleotide resolution, providing insights into the strain composition of microbial communities. Check out the GitHub repository for this project: <a href='https://github.com/OlmLab/ZipStrain?tab=readme-ov-file'>ZipStrain</a>",
+        "image":"img/Zipstrain.svg",
+        "alt_text":"ZipStrain logo"
+    },
+    {
         "title": "Comprehensive bioinformatics pipeline",
         "body": "Our repository for bioinformatics pipelines contains a comprehensive set of workflows developed in Nextflow for common practices in bioinformatics with a focus on microbiome data analysis. This includes reference-based and assembly-based metagenomics, metatranscriptomics, RNA-seq, strain-level metagenomics and  so on. All processes are containerized and can be run on any system with Docker or Apptainer installed. Check out the GitHub repository for this project: <a href='https://github.com/OlmLab/bioinformatics_pipelines'>Olm Lab's bioinformatics pipelines</a>",
         "image":"img/pipeline.png",
