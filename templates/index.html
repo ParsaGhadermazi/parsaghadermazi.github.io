@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+{% block title %}{{ config.name }} &middot; {{ config.title }}{% endblock %}
+{% block content %}
+<section class="row align-items-center g-5 hero">
+  <div class="col-md-7">
+    <h1 class="display-6 mb-3">{{ config.name }}</h1>
+    <p class="text-muted text-uppercase letter-spacing small mb-4">{{ config.title }}</p>
+    <p class="lead">{{ config.intro }}</p>
+    <div class="mt-4">
+      <a href="publications.html" class="btn btn-dark me-2">Publications</a>
+      <a href="posts.html" class="btn btn-outline-dark">Posts</a>
+    </div>
+  </div>
+  <div class="col-md-5">
+    <img src="{{ config.intro_image }}" alt="{{ config.intro_image_alt }}" class="img-fluid rounded-3 hero-img">
+  </div>
+</section>
+{% endblock %}

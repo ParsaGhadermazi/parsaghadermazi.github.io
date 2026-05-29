@@ -1,0 +1,118 @@
+:root {
+  --ink: #1a1a1a;
+  --muted: #6b6b6b;
+  --line: #ebebeb;
+  --bg: #ffffff;
+  --accent: #1a1a1a;
+}
+
+html, body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 17px;
+  line-height: 1.7;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ---------- Navbar ---------- */
+.navbar {
+  background: var(--bg);
+  border-bottom: 1px solid var(--line);
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+.navbar-brand {
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+.nav-link {
+  color: var(--muted) !important;
+  font-size: 0.95rem;
+  margin-left: 1.25rem;
+}
+.nav-link:hover { color: var(--ink) !important; }
+.nav-link.active { color: var(--ink) !important; font-weight: 500; }
+
+/* ---------- Typography ---------- */
+h1, h2, h3, h4 { letter-spacing: -0.02em; }
+.page-title { font-weight: 600; }
+.letter-spacing { letter-spacing: 0.12em; }
+main { max-width: 880px; }
+a { color: var(--ink); text-underline-offset: 2px; }
+a:hover { color: var(--muted); }
+
+/* ---------- Hero / About ---------- */
+.hero { min-height: 60vh; }
+.hero-img {
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.08);
+}
+.btn-dark {
+  --bs-btn-bg: var(--ink);
+  --bs-btn-border-color: var(--ink);
+  --bs-btn-hover-bg: #000;
+  --bs-btn-hover-border-color: #000;
+}
+
+/* ---------- Posts ---------- */
+.post + .post { border-top: 1px solid var(--line); padding-top: 2rem; }
+.post-body { font-size: 1rem; }
+.post-img-right {
+  float: right;
+  max-width: 45%;
+  height: auto;
+  margin: 0 0 1rem 1.75rem;
+  border-radius: 8px;
+}
+.post-img-left {
+  float: left;
+  max-width: 45%;
+  height: auto;
+  margin: 0 1.75rem 1rem 0;
+  border-radius: 8px;
+}
+.post-img-center {
+  display: block;
+  margin: 1.5rem auto;
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+/* ---------- Publications ---------- */
+.year-heading {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  color: var(--muted);
+  border-bottom: 1px solid var(--line);
+  padding-bottom: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+.pub + .pub { border-top: 1px solid var(--line); }
+.pub h3 { font-weight: 600; line-height: 1.4; }
+.pub-authors { color: var(--ink); }
+.pub-venue { color: var(--muted); }
+.pub-links .btn { margin-right: 0.4rem; margin-top: 0.3rem; }
+
+/* ---------- Contact ---------- */
+.contact-list { max-width: 520px; }
+.contact-row {
+  text-decoration: none;
+  color: var(--ink);
+  padding: 1rem 0;
+  border-bottom: 1px solid var(--line);
+  font-size: 1.1rem;
+}
+.contact-row:hover { color: var(--muted); }
+.contact-row i { font-size: 1.6rem; width: 1.8rem; }
+
+/* ---------- Responsive ---------- */
+@media (max-width: 768px) {
+  .post-img-right, .post-img-left {
+    float: none;
+    display: block;
+    max-width: 100%;
+    margin: 1.25rem 0;
+  }
+}

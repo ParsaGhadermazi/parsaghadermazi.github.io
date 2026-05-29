@@ -1,0 +1,16 @@
+{
+  "name": "Parsa Ghadermazi",
+  "title": "Bioinformatics Scientist",
+  "scholar_id": "https://scholar.google.com/citations?user=WvClyEoAAAAJ&hl=en",
+  "intro": "My name is Parsa Ghadermazi, and I am a Postdoctoral Associate at the University of Colorado Boulder in the Olm Lab. My research focuses on developing efficient bioinformatics tools and computational pipelines to answer biological questions. Outside of research, I enjoy trail running and fly fishing!",
+  "intro_image": "img/Hiky.jpeg",
+  "intro_image_alt": "Parsa Ghadermazi",
+  "email": "parsa.ghadermarzi@gmail.com",
+  "github": "https://github.com/ParsaGhadermazi",
+  "nav": [
+    { "label": "About", "href": "index.html" },
+    { "label": "Posts", "href": "posts.html" },
+    { "label": "Publications", "href": "publications.html" },
+    { "label": "Contact", "href": "contact.html" }
+  ]
+}

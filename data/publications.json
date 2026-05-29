@@ -1,0 +1,272 @@
+{
+  "synced_at": "2026-05-29T16:34:57",
+  "source": "google-scholar:WvClyEoAAAAJ",
+  "publications": [
+    {
+      "title": "Higher-order interaction effects among operating conditions and feedstocks shape reactor microbiomes and fatty acid production profiles",
+      "authors": "Jorge L Rico, Amanda Schmidt, Parsa Ghadermazi, Kristen Otto, Jessica L Metcalf, Jorge Saul Castillo Jaimes, Joshua Chan, Kenneth F Reardon, Susan K De Long",
+      "venue": "Bioresource Technology",
+      "year": "2026",
+      "abstract": "rrested anaerobic digestion (AAD) offers a promising route for producing fatty acids (FAs) from organic residues, yet optimal conditions for selectively generating medium-chain fatty acids (MCFAs) remain poorly defined. Here, we systematically evaluated the main and interaction effects of pH (5, 7, 9), feedstock (food waste, manure), temperature (35 and 45 °C), and inoculum source on microbiome composition and FA production. Anaerobic digester sludge and a novel bison rumen inoculum were compared. Significant higher-order interactions among operating parameters governed FA profiles and microbiome structure. Butyric acid production was driven by a three-way interaction among pH, feedstock, and temperature (p < 0.001), with maximum concentrations achieved in food waste reactors at pH 5.0 and 35 °C (1.2 ± 0.1 g L−1 with sludge and 1.1 ± 0.3 g L−1 with rumen). MCFA production …",
+      "links": [
+        {
+          "label": "Web",
+          "url": "https://www.sciencedirect.com/science/article/pii/S096085242601062X",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "title": "Red cabbage juice reprograms the gut microbiome and enhances butyrate production to prevent colorectal cancer",
+      "authors": "Bineet Narayan, Yariswamy Manjunath, Nagabhhishek Sirpu Natesh, Chayanee Chanpanich, Parsa Ghadermazi, Blake Arciga, Samarth Kansara, Ajay Tosh, John Ulbrich, Mary Kate Grossmann, Hwang Jiwon, Van Nguyen, Vikas Satyananda, Jussuf T Kaifi, Joshua Chan, Satyanarayana Rachagani",
+      "venue": "Cancer Research",
+      "year": "2026",
+      "abstract": "Colorectal cancer (CRC) remains the second leading cause of cancer-related mortality in the United States, with Western diet-induced gut dysbiosis implicated in its pathogenesis. Early interventions targeting the gut microbiome offer a promising prevention strategy. Dietary approaches that enhance short-chain fatty acid (SCFA) production like butyrate, have emerged as potential chemopreventive measures. This study investigated the preventive efficacy of red cabbage juice (RCJ) in a genetically engineered mouse model of CRC by examining its effects on microbial composition, butyrate production and its translational relevance using CRC patient-derived organoids (PDOs).Tamoxifen inducible APCfl/fl;Cdx-CreER (AC) mice for CRC were randomized to receive either phosphate-buffered saline (PBS) or RCJ as oral gavage for 10 weeks. Then, mice were injected with tamoxifen to induce …",
+      "links": [
+        {
+          "label": "Web",
+          "url": "https://aacrjournals.org/cancerres/article/86/7_Supplement/3619/780478",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "title": "ZipStrain Enables Rapid and Precise Strain-Resolved Metagenomics",
+      "authors": "Parsa Ghadermazi, Joanne B Emerson, Matthew R Olm",
+      "venue": "bioRxiv",
+      "year": "2026",
+      "abstract": "Strain-resolved metagenomics characterizes microbial communities at nucleotide-level resolution, enabling researchers to differentiate identical from closely related organisms and characterize population structure and gene content variation. Here we introduce ZipStrain, a program that performs highly accurate strain-resolved metagenomics over 500 times faster than available methods while offering superior RAM management. Applied to a dataset of 2,754 samples spanning human populations, we identify a strain-sharing gradient across social relationships, reveal striking variation in clonal structure across bacteria and bacteriophage, and pinpoint genes whose nucleotide identity deviates from genome-wide expectations. ZipStrain is distributed as an open-source Python package and accompanying Nextflow pipeline at https://github.com/OlmLab/ZipStrain.",
+      "links": [
+        {
+          "label": "Web",
+          "url": "https://www.biorxiv.org/content/10.64898/2026.05.20.726564.abstract",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "title": "IgA Targeting in the Infant Gut Is Modulated by Diet and Increasingly Directed Towards Persistent Species",
+      "authors": "Jing Qian, Parsa Ghadermazi, Soren Maret, Jennifer F Kemp, Daniel Frank, Edward L Melanson, Audrey E Hendricks, Nancy Krebs, Minghua Tang, Matthew R Olm",
+      "venue": "bioRxiv",
+      "year": "2026",
+      "abstract": "Background IgA is the dominant antibody in the human gut and a key regulator of host-microbe interactions. Infants begin to produce IgA at around 6 months old and receive large quantities of IgA via human milk, but technical limitations have prevented species-level characterization of IgA binding in early life. This has left basic knowledge gaps about which species are targeted by IgA in infancy, and how modifiable lifestyle factors like breastfeeding and complementary feeding impact IgA targeting. Results Here we adapt Metagenomic Immunoglobulin Sequencing (MIg-Seq) for low-biomass infant fecal samples and apply this optimized protocol to 32 longitudinal samples from 16 infants enrolled in the MINT trial, a four-arm randomized controlled trial comparing meat-based, dairy-based, plant-based, and reference complementary feeding patterns, with fecal sampling at 6 and 12 months (pre and post intervention). Infant IgA targeting mirrors adults at the phylum level, with both age groups showing significantly higher IgA targeting of Pseudomonadota and lower targeting of Bacteroidota relative to other phyla. During the substantial microbiome compositional shifts noted between 6 and 12 months, IgA targeting is significantly more stable than the microbiome itself. Among persistent colonizers, IgA targeting strengthens significantly from 6 to 12 months, with the most pronounced effect observed for Bifidobacterium, a finding robust across all dietary arms and feeding modes. The feeding arm to which infants were enrolled was not significantly associated with IgA binding, but several nutrient-specific associations were discovered. Animal-derived …",
+      "links": [
+        {
+          "label": "Web",
+          "url": "https://www.biorxiv.org/content/10.64898/2026.05.19.726352.abstract",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "title": "CaDAVEr: a metagenome-assembled genome catalog of microbial decomposers across vertebrate environments",
+      "authors": "Valerie A Seitz, Bridget B McGivern, Michael Shaffer, Mikayla A Borton, Aeriel D Belk, Parsa Ghadermazi, Cameron Martino, Liat Shenhav, Anru R Zhang, Pixu Shi, Alexandra Emmons, Heather Deel, Zhenjiang Zech Xu, Victoria Nieciecki, Qiyun Zhu, Kalen Cantrell, Asa Ben-Hur, Sasha C Reed, Greg C Humphry, Gail Ackermann, Daniel McDonald, Siu Hung Joshua Chan, Melissa Connor, Derek A Boyd, Jake Smith, Jenna MS Watson, Giovanna Vidoli, Dawnie Steadman, Aaron M Lynne, Sibyl Bucheli, David O Carter, Zachary M Burcham, Rob Knight, Kelly C Wrighton, Jessica L Metcalf",
+      "venue": "Microbiology Resource Announcements",
+      "year": "2025",
+      "abstract": "Microbial degradation of organic matter is a fundamental Earth process, yet a mechanistic understanding of microbial metabolisms and successional ecology involved in decomposition remains poorly understood. Here, we announce the recovery of 277 cadaver-associated soil metagenome-assembled genomes to enhance our understanding of vertebrate decomposition microbial processes.",
+      "links": [
+        {
+          "label": "Web",
+          "url": "https://journals.asm.org/doi/abs/10.1128/mra.01323-24",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "title": "Mechanistic characterization of microbiome shifts under methanogenesis inhibition reveals pathways for circular carbon valorization",
+      "authors": "Jorge L Rico, Rebecca A Daly, Reed Woyda, Parsa Ghadermazi, Laura G Schaerer, Kristen Otto, Jessica L Metcalf, Siu Hung Joshua Chan, Kelly C Wrighton, Kenneth F Reardon, Susan K De Long",
+      "venue": "",
+      "year": "2025",
+      "abstract": "BackgroundArrested anaerobic digestion (AAD) technologies can leverage methanogenesis inhibitors such as iodoform to redirect carbon flux from methane to higher-value fatty acids (FAs), a strategy that aligns with circular bioeconomy goals. However, the effects of iodoform on microbial community structure and function remain poorly understood, limiting the ability to optimize microbiomes for enhanced VFA production.ResultsMicrobiome responses to iodoform in AAD reactors treating food waste with anaerobic sludge inocula were characterized via 16S rRNA gene amplicon sequencing, metagenomics, and metabolite profiling. Iodoform addition eliminated detectable methane and significantly increased the accumulation of butyric acid and medium-chain FAs, including pentanoic, hexanoic, and heptanoic, compared to controls, which favored acetic and propionic acids. Microbial communities shifted toward hydrogen-and butyric acid-producing taxa such as Prevotella, Clostridium sensu stricto 1, and Peptostreptococcaceae, while methanogens and Romboutsia were suppressed. Metagenomic analyses revealed suppression of oxidative phosphorylation and vitamin B₁₂-dependent pathways associated with methanogenesis and increased odd-chain fatty acid synthesis. Concurrently, iodoform treatment enriched genes related to reverse β-oxidation, substrate-level phosphorylation, assimilatory sulfur metabolism, and fatty acid biosynthesis.ConclusionsThis study provides the first integrated metagenomic framework for understanding how methanogenesis inhibition via iodoform perturbs microbiome structure and function in AAD systems. By …",
+      "links": [
+        {
+          "label": "Web",
+          "url": "https://www.researchsquare.com/article/rs-7776556/latest",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "title": "Teaching right from wrong: Developing a model of early immune education",
+      "authors": "Parsa Ghadermazi, Matthew R Olm",
+      "venue": "PLoS Biology",
+      "year": "2025",
+      "abstract": "Early immune education mechanisms remain poorly understood. A new PLOS Biology study develops a mathematical modeling framework to provide mechanistic insights into how the infant immune system learns to distinguish beneficial from harmful microbes.",
+      "links": [
+        {
+          "label": "Web",
+          "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003314",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "title": "183: NUTRACEUTICAL-MEDIATED GUT MICROBIOME MODULATION TO PREVENT COLORECTAL CANCER THROUGH INCREASED BUTYRATE PRODUCTION",
+      "authors": "Nagabhishek S Natesh, Parsa Ghadermazi, Boobalan Thulasinathan, Erik Grossmann, Emma T Pernas, Jussuf Kaifi, Yezaz A Ghouri, Joshua Chan, Satyanarayana Rachagani",
+      "venue": "Gastroenterology",
+      "year": "2025",
+      "abstract": "181 E. COLI ST871 USES FOOD-CARRAGEENAN TO PRODUCE PYROCATECHOL, WHICH PROMOTES COLORECTAL TUMORIGENESIS BY INTERACTING WITH HOST CELL ENO-1 RECEPTOR Xueliang Wang, Chi Chun Wong, Yi Fang, Junlin Wang, Mengmiao Mo, Meinong Liang, Xiao Ding, Fenfen Ji, Xiaoxing Li, Lixia Xu, Jun Yu Background: Consumption of food emulsifier has been implicated in gastrointestinal diseases.-Carrageenan (CGN) is a commonly used natural food emulsifier extracted from marine red algae. We aimed to evaluate the potential role of CGN in colorectal cancer (CRC). Methods: The effect of CGN on CRC tumorigenesis was assessed in AOM, AOM/DSS, and ApcMin/+ mouse models, as well as in orthotopic CRC models using both germ-free (GF) and conventional mice. CGN metabolizing bacteria in human gut were identified using Raman-activated cell sorting (RACS) combined …",
+      "links": [
+        {
+          "label": "Web",
+          "url": "https://scholar.google.com/scholar?cluster=17438961727569936969&hl=en&oi=scholarr",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "title": "A conserved interdomain microbial network underpins cadaver decomposition despite environmental variables",
+      "authors": "Zachary M Burcham, Aeriel D Belk, Bridget B McGivern, Amina Bouslimani, Parsa Ghadermazi, Cameron Martino, Liat Shenhav, Anru R Zhang, Pixu Shi, Alexandra Emmons, Heather L Deel, Zhenjiang Zech Xu, Victoria Nieciecki, Qiyun Zhu, Michael Shaffer, Morgan Panitchpakdi, Kelly C Weldon, Kalen Cantrell, Asa Ben-Hur, Sasha C Reed, Greg C Humphry, Gail Ackermann, Daniel McDonald, Siu Hung Joshua Chan, Melissa Connor, Derek Boyd, Jake Smith, Jenna MS Watson, Giovanna Vidoli, Dawnie Steadman, Aaron M Lynne, Sibyl Bucheli, Pieter C Dorrestein, Kelly C Wrighton, David O Carter, Rob Knight, Jessica L Metcalf",
+      "venue": "Nature microbiology",
+      "year": "2024",
+      "abstract": "Microbial breakdown of organic matter is one of the most important processes on Earth, yet the controls of decomposition are poorly understood. Here we track 36 terrestrial human cadavers in three locations and show that a phylogenetically distinct, interdomain microbial network assembles during decomposition despite selection effects of location, climate and season. We generated a metagenome-assembled genome library from cadaver-associated soils and integrated it with metabolomics data to identify links between taxonomy and function. This universal network of microbial decomposers is characterized by cross-feeding to metabolize labile decomposition products. The key bacterial and fungal decomposers are rare across non-decomposition environments and appear unique to the breakdown of terrestrial decaying flesh, including humans, swine, mice and cattle, with insects as likely important vectors for …",
+      "links": [
+        {
+          "label": "Web",
+          "url": "https://www.nature.com/articles/s41564-023-01580-y",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "title": "Microbial interactions from a new perspective: reinforcement learning reveals new insights into microbiome evolution",
+      "authors": "Parsa Ghadermazi, Siu Hung Joshua Chan",
+      "venue": "Bioinformatics",
+      "year": "2024",
+      "abstract": "Microbes are essential part of all ecosystems, influencing material flow and shaping their surroundings. Metabolic modeling has been a useful tool and provided tremendous insights into microbial community metabolism. However, current methods based on flux balance analysis (FBA) usually fail to predict metabolic and regulatory strategies that lead to long-term survival and stability especially in heterogenous communities.Here, we introduce a novel reinforcement learning algorithm, Self-Playing Microbes in Dynamic FBA, which treats microbial metabolism as a decision-making process, allowing individual microbial agents to evolve by learning and adapting metabolic strategies for enhanced long-term fitness. This algorithm predicts what microbial flux regulation policies will stabilize in the dynamic ecosystem of interest in the presence of other microbes …",
+      "links": [
+        {
+          "label": "Web",
+          "url": "https://academic.oup.com/bioinformatics/article-abstract/40/1/btae003/7517107",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "title": "Predicting Microbiome Evolution and Metabolic Regulation Patterns through Integrating Flux Balance Analysis and Reinforcement Learning",
+      "authors": "Parsa Ghadermazi, Siu Hung Joshua Chan",
+      "venue": "2024 AIChE Annual Meeting",
+      "year": "2024",
+      "abstract": "",
+      "links": [
+        {
+          "label": "Web",
+          "url": "https://scholar.google.com/scholar?cluster=9909539159404004182&hl=en&oi=scholarr",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "title": "ADToolbox: Incorporating Metagenomics Data for Improved Prediction of Anaerobic Digestion Dynamics",
+      "authors": "Parsa Ghadermazi, Jorge L Rico, Ethan Rimmelman, Siri Stenmark, Kenneth F Reardon, Susan De Long, Siu Hung Joshua Chan",
+      "venue": "bioRxiv",
+      "year": "2024",
+      "abstract": "Handling the global food waste requires sustainable solutions. Anaerobic digestion (AD) is a common approach for waste remediation and bioenergy production which has been traditionally used mainly for methane production. Shifting the focus from methane to volatile fatty acids (VFAs), such as acetic, propionic, and butyric acids, offers promising alternatives due to their diverse applications and higher added value. Achieving desired AD product distributions requires a comprehensive understanding of factors like temperature, pH, feedstock composition, and the complex microbial dynamics inherent in AD. Various AD modeling approaches exist, from simple equations to complex flux balance analysis (FBA) and machine learning (ML) model. The Anaerobic Digestion Model No. 1 (ADM 1) is a commonly used kinetic model, striking a reasonable balance between parameter requirements and biochemical details involved in the model. Yet, it falls short in capturing specific VFAs like caproic acid and integrating microbial information directly. We present ADToolbox, a Python package for modeling AD metabolism. ADToolbox incorporates metagenomic information into an enhanced ADM model. The model accommodates a more detailed feedstock degradation model and VFA and methanogenesis metabolism. ADToolbox provides a variety of interfaces such as command line interface and an interactive web interface line interface, and a Python API, facilitating large-scale metagenomic analyses and modeling simulations. In this article we indicate that prioritizing the microbial aspect of AD enhances flexibility and predictive power in terms of VFA …",
+      "links": [
+        {
+          "label": "Web",
+          "url": "https://www.biorxiv.org/content/10.1101/2024.07.16.603753.abstract",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "title": "Red cabbage juice-mediated gut microbiota modulation improves intestinal epithelial homeostasis and ameliorates colitis",
+      "authors": "Emily Jean Wilson, Nagabhishek Sirpu Natesh, Parsa Ghadermazi, Ramesh Pothuraju, Dipakkumar R Prajapati, Sanjit Pandey, Jussuf T Kaifi, John R Dodam, Jeffrey N Bryan, Christian L Lorson, Aude A Watrelot, Jason M Foster, Thomas J Mansell, Siu Hung Joshua Chan, Surinder K Batra, Jeyamkondan Subbiah, Satyanarayana Rachagani",
+      "venue": "International Journal of Molecular Sciences",
+      "year": "2023",
+      "abstract": "Gut microbiota plays a crucial role in inflammatory bowel diseases (IBD) and can potentially prevent IBD through microbial-derived metabolites, making it a promising therapeutic avenue. Recent evidence suggests that despite an unclear underlying mechanism, red cabbage juice (RCJ) alleviates Dextran Sodium Sulfate (DSS)-induced colitis in mice. Thus, the study aims to unravel the molecular mechanism by which RCJ modulates the gut microbiota to alleviate DSS-induced colitis in mice. Using C57BL/6J mice, we evaluated RCJ’s protective role in DSS-induced colitis through two cycles of 3% DSS. Mice were daily gavaged with PBS or RCJ until the endpoint, and gut microbiota composition was analyzed via shotgun metagenomics. RCJ treatment significantly improved body weight (p ≤ 0.001), survival in mice (p < 0.001) and reduced disease activity index (DAI) scores. Further, RCJ improved colonic barrier integrity by enhancing the expression of protective colonic mucins (p < 0.001) and tight junction proteins (p ≤ 0.01) in RCJ + DSS-treated mice compared to the DSS group. Shotgun metagenomic analysis revealed an enrichment of short-chain fatty acids (SCFAs)-producing bacteria (p < 0.05), leading to increased Peroxisome Proliferator-Activated Receptor Gamma (PPAR-γ) activation (p ≤ 0.001). This, in turn, resulted in repression of the nuclear factor κB (NFκB) signaling pathway, causing decreased production of inflammatory cytokines and chemokines. Our study demonstrates colitis remission in a DSS-induced mouse model, showcasing RCJ as a potential modulator for gut microbiota and metabolites, with promising implications for …",
+      "links": [
+        {
+          "label": "Web",
+          "url": "https://www.mdpi.com/1422-0067/25/1/539",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "title": "kb_DRAM: annotation and metabolic profiling of genomes with DRAM in KBase",
+      "authors": "Michael Shaffer, Mikayla A Borton, Ben Bolduc, José P Faria, Rory M Flynn, Parsa Ghadermazi, Janaka N Edirisinghe, Elisha M Wood-Charlson, Christopher S Miller, Siu Hung Joshua Chan, Matthew B Sullivan, Christopher S Henry, Kelly C Wrighton",
+      "venue": "Bioinformatics",
+      "year": "2023",
+      "abstract": "Microbial genome annotation is the process of identifying structural and functional elements in DNA sequences and subsequently attaching biological information to those elements. DRAM is a tool developed to annotate bacterial, archaeal, and viral genomes derived from pure cultures or metagenomes. DRAM goes beyond traditional annotation tools by distilling multiple gene annotations to genome level summaries of functional potential. Despite these benefits, a downside of DRAM is the requirement of large computational resources, which limits its accessibility. Further, it did not integrate with downstream metabolic modeling tools that require genome annotation. To alleviate these constraints, DRAM and the viral counterpart, DRAM-v, are now available and integrated with the freely accessible KBase cyberinfrastructure. With kb_DRAM users can generate DRAM annotations and functional …",
+      "links": [
+        {
+          "label": "Web",
+          "url": "https://academic.oup.com/bioinformatics/article-abstract/39/4/btad110/7066916",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "title": "ADToolbox: A Metageome-Informed Modeling Package for Anaerobic Digestion",
+      "authors": "Parsa Ghadermazi, Siu Hung Joshua Chan",
+      "venue": "",
+      "year": "2023",
+      "abstract": "",
+      "links": [
+        {
+          "label": "Web",
+          "url": "https://sim.confex.com/sim/sbfc2023/meetingapp.cgi/Paper/46982",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "title": "Metabolic Engineering Interventions for Sustainable 2,3-Butanediol Production in Gas-Fermenting Clostridium autoethanogenum",
+      "authors": "Parsa Ghadermazi, Angela Re, Luca Ricci, Siu Hung Joshua Chan",
+      "venue": "Msystems",
+      "year": "2022",
+      "abstract": "Gas fermentation provides a promising platform to turn low-cost and readily available single-carbon waste gases into commodity chemicals, such as 2,3-butanediol. Clostridium autoethanogenum is usually used as a robust and flexible chassis for gas fermentation. Here, we leveraged constraint-based stoichiometric modeling and kinetic ensemble modeling of the C. autoethanogenum metabolic network to provide a systematic in silico analysis of metabolic engineering interventions for 2,3-butanediol overproduction and low carbon substrate loss in dissipated CO2. Our analysis allowed us to identify and to assess comparatively the expected performances for a wide range of single, double, and triple interventions. Our analysis managed to individuate bottleneck reactions in relevant metabolic pathways when suggesting intervening strategies. Besides recapitulating intuitive and/or previously attempted genetic …",
+      "links": [
+        {
+          "label": "Web",
+          "url": "https://journals.asm.org/doi/abs/10.1128/msystems.01111-21",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "title": "Predicting microbiome metabolism and interactions through integrating multidisciplinary principles",
+      "authors": "Caleb M Schmidt, Parsa Ghadermazi, Siu Hung Joshua Chan",
+      "venue": "Msystems",
+      "year": "2021",
+      "abstract": "In this Commentary, we will discuss some of the current trends and challenges in modeling microbiome metabolism. A focus will be the state of the art in the integration of metabolic networks, ecological and evolutionary principles, and spatiotemporal considerations, followed by envisioning integrated frameworks incorporating different principles and data to generate predictive models in the future.",
+      "links": [
+        {
+          "label": "Web",
+          "url": "https://journals.asm.org/doi/abs/10.1128/msystems.00768-21",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "title": "A conserved interdomain microbial network underpins cadaver decomposition despite environmental variables. Nat Microbiol. 2024; 9 (3): 595–613",
+      "authors": "ZM Burcham, AD Belk, BB McGivern, A Bouslimani, P Ghadermazi, C Martino, L Shenhav, AR Zhang, P Shi, A Emmons",
+      "venue": "",
+      "year": "",
+      "abstract": "",
+      "links": [
+        {
+          "label": "Web",
+          "url": "https://scholar.google.com/scholar?cluster=1504098075799563133&hl=en&oi=scholarr",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "title": "Understanding microbial metabolism using computational methods at different levels of abstraction",
+      "authors": "Parsa Ghadermazi, Siu Hung Joshua Chan, Brian Munsky, Ashok Prasad, Kelly Wrighton",
+      "venue": "",
+      "year": "",
+      "abstract": "Understanding microbial metabolism and its effect on the surrounding environment represents a critical challenge in microbial ecology, requiring sophisticated computational approaches that can bridge molecular-level interactions with complex ecosystem dynamics. This research presents a comprehensive suite of computational methods that advance our ability to model and predict microbial system behaviors at multiple levels of complexity. This work introduces four computational distinct approaches that address key limitations in existing microbiome modeling techniques:• A bottom-up cellular metabolism model that enables predicting cellular phenotype using a simplified kinetic model for a replicating bacterial cell• SPAM-DFBA, a novel approach integrating dynamic flux balance analysis with reinforcement learning• ADToolbox, a metagenome-informed tool for modeling anaerobic digestion processes• A bioinformatics approach for analyzing complex host-microbiota interactions in mice with colorectal cancer By systematically exploring the trade-offs between model complexity and predictive power, this research expands the analytical toolkit available to microbiome researchers. The methodological progression demonstrates how computational techniques can overcome significant challenges in metabolic modeling, including limited kinetic parameters and biochemical knowledge gaps. Key contributions include:• Novel optimization techniques for simulating cellular metabolism• Enhanced modeling approaches for heterogeneous bacterial communities• Integration of metagenomic data into predictive computational frameworks These …",
+      "links": [
+        {
+          "label": "Web",
+          "url": "https://mountainscholar.org/items/fc0de9d9-e2a8-45ad-b44e-dd13d2882a13",
+          "style": "secondary"
+        }
+      ]
+    }
+  ]
+}

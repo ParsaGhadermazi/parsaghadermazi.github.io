@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+{% block title %}Contact &middot; {{ config.name }}{% endblock %}
+{% block content %}
+<h1 class="page-title mb-5">Contact</h1>
+<div class="contact-list">
+  <a href="mailto:{{ config.email }}" class="contact-row d-flex align-items-center">
+    <i class="bi bi-envelope"></i>
+    <span class="ms-3">{{ config.email }}</span>
+  </a>
+  <a href="{{ config.github }}" class="contact-row d-flex align-items-center">
+    <i class="bi bi-github"></i>
+    <span class="ms-3">{{ config.github.replace('https://', '') }}</span>
+  </a>
+  {% if config.scholar_id %}
+  <a href="https://scholar.google.com/citations?user={{ config.scholar_id }}" class="contact-row d-flex align-items-center">
+    <i class="bi bi-mortarboard"></i>
+    <span class="ms-3">Google Scholar</span>
+  </a>
+  {% endif %}
+</div>
+{% endblock %}

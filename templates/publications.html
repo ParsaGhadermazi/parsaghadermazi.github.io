@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{% block title %}Publications &middot; {{ config.name }}{% endblock %}
+{% block content %}
+<h1 class="page-title mb-5">Publications</h1>
+{% for group in groups %}
+<section class="mb-5">
+  <h2 class="year-heading">{{ group.year }}</h2>
+  {% for pub in group.pubs %}
+  <div class="pub py-3">
+    <h3 class="h6 mb-1">{{ pub.title }}</h3>
+    <p class="pub-authors small mb-1">{{ pub.authors_html | safe }}</p>
+    {% if pub.venue %}<p class="pub-venue small mb-1"><em>{{ pub.venue }}</em></p>{% endif %}
+    {% if pub.abstract %}<p class="pub-abstract small text-muted mb-2">{{ pub.abstract }}</p>{% endif %}
+    {% if pub.links %}
+    <div class="pub-links">
+      {% for link in pub.links %}
+      <a href="{{ link.url }}" class="btn btn-sm btn-outline-{{ link.style }}">{{ link.label }}</a>
+      {% endfor %}
+    </div>
+    {% endif %}
+  </div>
+  {% endfor %}
+</section>
+{% endfor %}
+{% endblock %}
