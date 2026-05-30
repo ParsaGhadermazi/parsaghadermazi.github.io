@@ -27,8 +27,10 @@ POSTS_DIR = ROOT / "posts"
 TEMPLATES = ROOT / "templates"
 CONFIG_PATH = DATA / "config.json"
 PUBS_PATH = DATA / "publications.json"
+MANIFEST_PATH = DATA / ".build_manifest.json"
 
 AUTHOR_NAME = "Parsa Ghadermazi"
+RESERVED_PAGES = {"index.html", "posts.html", "publications.html", "contact.html"}
 
 
 # --------------------------------------------------------------------------- #
@@ -128,6 +130,7 @@ def build() -> None:
             {**common, "page": "posts.html", "post": post},
             out=f"{post['slug']}.html",
         )
+    _cleanup_post_pages([f"{p['slug']}.html" for p in posts])
 
     # --- publications (grouped by year, newest first) ---
     pubs = load_json(PUBS_PATH).get("publications", [])
@@ -149,6 +152,32 @@ def build() -> None:
 def _render(env: Environment, name: str, ctx: dict, out: str | None = None) -> None:
     html = env.get_template(name).render(**ctx)
     (ROOT / (out or name)).write_text(html, encoding="utf-8")
+
+
+def _cleanup_post_pages(current: list[str]) -> None:
+    """Delete post pages from previous builds that no longer have a source post.
+
+    Only ever removes files this tool generated (tracked in the build manifest)
+    and never the reserved top-level pages.
+    """
+    current_set = set(current)
+    previous: set[str] = set()
+    if MANIFEST_PATH.exists():
+        try:
+            previous = set(json.loads(MANIFEST_PATH.read_text(encoding="utf-8")))
+        except (ValueError, OSError):
+            previous = set()
+    removed = []
+    for name in previous - current_set - RESERVED_PAGES:
+        stale = ROOT / name
+        if stale.exists():
+            stale.unlink()
+            removed.append(name)
+    MANIFEST_PATH.write_text(
+        json.dumps(sorted(current_set), indent=2), encoding="utf-8"
+    )
+    if removed:
+        print(f"Removed {len(removed)} stale post page(s): {', '.join(sorted(removed))}")
 
 
 def _group_by_year(pubs: list[dict]) -> list[dict]:
