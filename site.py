@@ -68,16 +68,37 @@ def parse_post(path: Path) -> dict:
         if len(parts) == 3:
             meta = yaml.safe_load(parts[1]) or {}
             body = parts[2]
+    body = body.strip()
     renderer = md.Markdown(
         extensions=["attr_list", "fenced_code", "tables", "sane_lists"]
     )
-    html = renderer.convert(body.strip())
+    html = renderer.convert(body)
+
+    # First image in the post becomes the card thumbnail.
+    thumb_match = re.search(r"!\[([^\]]*)\]\(([^)\s]+)", body)
+    thumb = thumb_match.group(2) if thumb_match else None
+    thumb_alt = thumb_match.group(1) if thumb_match else ""
+
     return {
         "title": meta.get("title", path.stem),
         "date": str(meta.get("date", "")),
         "html": html,
         "slug": path.stem,
+        "thumb": thumb,
+        "thumb_alt": thumb_alt,
+        "excerpt": _excerpt(body),
     }
+
+
+def _excerpt(body: str, limit: int = 160) -> str:
+    """Build a short plain-text preview from markdown body."""
+    text = re.sub(r"!\[[^\]]*\]\([^)]*\)(\{[^}]*\})?", "", body)  # drop images
+    text = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", text)  # links -> text
+    text = re.sub(r"[#>*`_]", "", text)  # strip md markers
+    text = re.sub(r"\s+", " ", text).strip()
+    if len(text) > limit:
+        text = text[:limit].rsplit(" ", 1)[0] + "…"
+    return text
 
 
 # --------------------------------------------------------------------------- #
@@ -96,10 +117,17 @@ def build() -> None:
     # --- index / about ---
     _render(env, "index.html", {**common, "page": "index.html"})
 
-    # --- posts ---
+    # --- posts (listing + one page per post) ---
     posts = [parse_post(p) for p in sorted(POSTS_DIR.glob("*.md"))]
     posts.sort(key=lambda p: p["date"], reverse=True)
     _render(env, "posts.html", {**common, "page": "posts.html", "posts": posts})
+    for post in posts:
+        _render(
+            env,
+            "post.html",
+            {**common, "page": "posts.html", "post": post},
+            out=f"{post['slug']}.html",
+        )
 
     # --- publications (grouped by year, newest first) ---
     pubs = load_json(PUBS_PATH).get("publications", [])
@@ -115,12 +143,12 @@ def build() -> None:
     # --- contact ---
     _render(env, "contact.html", {**common, "page": "contact.html"})
 
-    print(f"Built 4 pages, {len(posts)} posts, {len(pubs)} publications.")
+    print(f"Built 4 pages, {len(posts)} post pages, {len(pubs)} publications.")
 
 
-def _render(env: Environment, name: str, ctx: dict) -> None:
+def _render(env: Environment, name: str, ctx: dict, out: str | None = None) -> None:
     html = env.get_template(name).render(**ctx)
-    (ROOT / name).write_text(html, encoding="utf-8")
+    (ROOT / (out or name)).write_text(html, encoding="utf-8")
 
 
 def _group_by_year(pubs: list[dict]) -> list[dict]:

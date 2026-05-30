@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+{% block title %}{{ post.title }} &middot; {{ config.name }}{% endblock %}
+{% block content %}
+<article class="post-page">
+  <a href="posts.html" class="post-back small text-muted text-decoration-none">&larr; All posts</a>
+  <h1 class="post-page-title mt-3 mb-1">{{ post.title }}</h1>
+  {% if post.date %}<p class="text-muted small mb-4">{{ post.date }}</p>{% endif %}
+  <div class="post-body clearfix">
+    {{ post.html | safe }}
+  </div>
+</article>
+{% endblock %}

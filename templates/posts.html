@@ -2,13 +2,23 @@
 {% block title %}Posts &middot; {{ config.name }}{% endblock %}
 {% block content %}
 <h1 class="page-title mb-5">Posts</h1>
-{% for post in posts %}
-<article class="post mb-5 pb-4">
-  <h2 class="h4 mb-1">{{ post.title }}</h2>
-  {% if post.date %}<p class="text-muted small mb-3">{{ post.date }}</p>{% endif %}
-  <div class="post-body clearfix">
-    {{ post.html | safe }}
+
+<div class="row g-4">
+  {% for post in posts %}
+  <div class="col-sm-6 col-lg-4">
+    <a class="card post-card h-100 text-decoration-none" href="{{ post.slug }}.html">
+      {% if post.thumb %}
+      <div class="post-card-img">
+        <img src="{{ post.thumb }}" alt="{{ post.thumb_alt }}">
+      </div>
+      {% endif %}
+      <div class="card-body">
+        <h2 class="h6 card-title mb-1">{{ post.title }}</h2>
+        {% if post.date %}<p class="text-muted small mb-2">{{ post.date }}</p>{% endif %}
+        <p class="post-card-excerpt small text-muted mb-0">{{ post.excerpt }}</p>
+      </div>
+    </a>
   </div>
-</article>
-{% endfor %}
+  {% endfor %}
+</div>
 {% endblock %}
